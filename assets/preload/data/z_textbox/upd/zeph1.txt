@@ -1,0 +1,5 @@
+zp:normal:-1:There he is!!
+zp:happy:-1:Now I can do the thing!!!!
+zp:scream:-1:Here I go!! Watch me live, geen!!!!!!
+gf:normal:1:Are you ever gonna tell him?
+bf:normal:-1:Meh.

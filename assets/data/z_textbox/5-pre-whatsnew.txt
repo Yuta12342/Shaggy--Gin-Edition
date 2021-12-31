@@ -1,0 +1,10 @@
+sh:ser:1:You haven't seen scoob around?
+bf:normal:-1:I've been looking, but I can't...
+sh:con:1:Oh gosh! I haven't like, found him either!#He must be so scared...
+bf:burn:-1:Maybe we should pass more time!
+bf:normal:-1:(I wanna see his true powers...)
+sh:con:1:Huh? Like, sing again?
+sh:ser:1:You know, maybe singing Scooby's#favorite song might call his attention#and stuff
+sh:con:1:If he can hear us...
+sh:normal:1:Alright, here we go.
+bf:normal:-1:(Let's see this...)

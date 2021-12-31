@@ -1,0 +1,9 @@
+bf:normal:-1:Hey!
+bf:normal:-1:I told you I wanted something#interesting, meow!
+bf:normal:-1:C'mon, even my Grandma can sing#better!
+sh:con:1:That's like, really rude man...#I really-
+bf:burn:-1:Maybe this is why your dog disappeared!
+sh:ang:1:...
+sh:smug:1:Heh.
+sh:smug:1:Prick.
+bf:burn:-1:(Got 'em!)

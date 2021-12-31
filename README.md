@@ -1,2 +1,2 @@
-# Shaggy: Gin Edition
+# the-shaggy-mod
  Shaggy: Gin Edition

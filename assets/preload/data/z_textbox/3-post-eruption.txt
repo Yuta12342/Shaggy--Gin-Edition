@@ -1,0 +1,6 @@
+sh:normal:1:You're like, actually good and stuff
+sh:normal:1:I don't wanna like bore you, so I'll#sing faster this time
+bf:normal:-1:Hey!
+sh:ser:1:...
+bf:burn:-1:This stuff is too easy!! I know you#have power, so show me something #interesting!
+sh:smug:1:Alright, alright...#Here we go man!

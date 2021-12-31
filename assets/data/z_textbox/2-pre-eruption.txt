@@ -1,0 +1,5 @@
+sh:normal:1:Zoinks! I lost control for a second...
+sh:normal:1:I'm sorry man, don't wanna make it#unfair for you or anything.
+bf:normal:-1:Don't worry, this is easy for me, meow!
+sh:smug:1:Okay, like, get ready now and stuff
+bf:normal:-1:(This guy seems to have some power... #Hmm...)
